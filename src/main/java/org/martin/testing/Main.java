@@ -5,9 +5,7 @@ public class Main {
         System.out.println("Hej!");
 
         Addition addition = new Addition();
-        int result = addition.add(3, 6);
-
-        System.out.println("3 + 6 = " + result);
+        
 
     }
     
